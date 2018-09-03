@@ -1,0 +1,9 @@
+lobby-world: world
+
+start-time: 10
+end-time: 180
+stop-time: 5
+prize: 100.0
+lost: 10.0
+minus: false
+defaultkit: default

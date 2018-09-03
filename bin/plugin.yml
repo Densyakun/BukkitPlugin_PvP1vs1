@@ -1,0 +1,7 @@
+name: PvP1vs1
+main: io.github.densyakun.bukkit.pvp1vs1.Main
+version: 1.0
+author: Densyakun
+website: http://densyakuncreate.wiki.fc2.com/
+depend: [MiniGameManager]
+softdepend: [Multiverse-Core]
