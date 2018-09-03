@@ -1,4 +1,4 @@
 # BukkitPlugin_PvP1vs1
 
-前提プラグインとしてMiniGameManagerを使用しています
-https://github.com/Densyakun/BukkitPlugin_MiniGameManager
+- iConomyに対応しています
+- 前提プラグインとしてMiniGameManagerを使用しています: https://github.com/Densyakun/BukkitPlugin_MiniGameManager
